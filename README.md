@@ -39,3 +39,4 @@ Avaliação da capacidade de resolver conflitos de merge.
 Recursos Adicionais:
 Prover links para documentação oficial do Git e tutoriais online para referência rápida.
 Sugerir a instalação de interfaces gráficas para Git (ex: GitHub Desktop, Sourcetree) para aqueles menos confortáveis com a linha de comando.
+
